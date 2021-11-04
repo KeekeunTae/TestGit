@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Scanner
 String abc
+=======
+Scanner sc = new Scanner();
+>>>>>>> 38c934b9c092acff53f4bea869033767d95edb69
